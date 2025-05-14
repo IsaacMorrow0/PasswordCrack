@@ -12,8 +12,8 @@ A simple Python tool for cracking MD5, SHA1, and SHA256 password hashes using a 
 
 ---
 
-## **Examples** ⚙️
-
+## **Example Output** ⚙️
+![output](https://github.com/IsaacMorrow0/PasswordCrack/blob/main/photos/ExamplePassCrack.png?raw=true)
 
 
 ---
