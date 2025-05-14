@@ -1,27 +1,37 @@
-Password Cracker 🖥️🔓 A simple Python script to crack MD5, SHA1, and SHA256 password hashes using a wordlist-based attack.
+# Password Cracker 🖥️🔑
 
-Features ✨ Supports MD5, SHA1, and SHA256 hashes
+A simple Python tool for cracking MD5, SHA1, and SHA256 password hashes using a dictionary attack with popular wordlists like `rockyou.txt`.
 
-Cracks multiple hashes from a file
+---
 
-Uses popular wordlists like rockyou.txt for dictionary attacks
+## **Features** 🚀
 
-Installation ⚙️ Clone the repo to your local machine
+- Supports **MD5**, **SHA1**, and **SHA256** hashes
+- Cracks multiple password hashes from a file
+- Uses wordlists like **rockyou.txt** for dictionary attacks
 
-Install the necessary dependencies (tqdm for progress bar)
+---
 
-Usage 📂 Run the script by providing:
+## **Examples** ⚙️
 
-The hash algorithm you want to crack (MD5, SHA1, or SHA256)
 
-The wordlist to use (e.g., rockyou.txt)
 
-A file containing the hashes to crack
+---
 
-Example: Create a file with hashes like 5f4dcc3b5aa765d61d8327deb882cf99
+## **How to Use** 🔓
 
-Run the script to see the cracked passwords
+1. Create a file containing the password hashes you want to crack.
+2. Run the script, specifying the hash algorithm, the wordlist, and the file containing the hashes.
 
-Requirements 🛠️ Python 3.6+
+---
 
-Disclaimer ⚠️ This tool is intended for educational and ethical use only. Do not use this script to crack passwords without explicit permission from the owner. Unauthorized access to computer systems is illegal and unethical. Always use responsibly and respect privacy and security guidelines.
+## **Requirements** 🔧
+
+- Python 3.6+
+
+---
+
+## **Disclaimer** ⚠️
+
+This tool is for **ethical use only**. Always  obtain explicit permission before attempting to crack passwords. Unauthorized password cracking is illegal and unethical. Use responsibly.
+
